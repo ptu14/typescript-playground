@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "webpack --mode=development",
+    "dev": "webpack --watch --mode=development"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "webpack": "^5.73.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.3.1",
+    "typescript": "^4.7.4",
+    "webpack-cli": "^4.10.0"
+  }
+}
